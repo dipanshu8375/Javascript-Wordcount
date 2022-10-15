@@ -13,7 +13,7 @@ It helps to find the word count and characters count of text which entered insid
   
 This is the live link of the project.
 
-Checkout Here [Live Link](https://dp-js-stopwatch.netlify.app)
+Checkout Here [Live Link](https://dp-wordcount.netlify.app)
 
 ![assets](./wordcount.jpg)
 
